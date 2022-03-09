@@ -2,9 +2,9 @@
 ![NoSQL](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.OtCl-xXBm41hNobE5iGosQHaDt%26pid%3DApi&f=1 "NoSQL")
 
 As a software developer, we'll always need a database to  gather data from or to save data in, for our projects. 
-> ### What is a database ? 
-> Databases can be considered as one of the important component entity for technology and applications. Data need to be stored in a specific structure and format to retrieve it whenever required.
-> A database is a collection of information, stored on a computer, that can be accessed in a variety of ways. The two main types of databases are _relational_ and _non-relational_ databases.
+ ### What is a database ? 
+ Databases can be considered as one of the important component entity for technology and applications. Data need to be stored in a specific structure and format to retrieve it whenever required.
+ A database is a collection of information, stored on a computer, that can be accessed in a variety of ways. The two main types of databases are _relational_ and _non-relational_ databases.
 
 
 
